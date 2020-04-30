@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Methods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/WarmUps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/day25_MethodsRecap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/day27_dateAndTime" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/day29_Wrapper_ArrayList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/modarete" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/officeDay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/replitDesk" vcs="Git" />
+  </component>
+</project>
